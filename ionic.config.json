@@ -1,0 +1,7 @@
+{
+  "name": "myFistApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
